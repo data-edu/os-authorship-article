@@ -51,6 +51,18 @@ r_refs("r-references.bib")
 knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 ```
 
+# Introduction
+
+- There is a strong traditional of making educational materials open
+
+- In software and statistics, open access is a norm, which sets a precedent for publishers
+
+- Where it comes to code, print has limitations
+
+- There is presently a strong push toward open-access with respect to publishing in journals
+
+- Many educational research faculty require publications for tenure and promotion
+
 In earlier posts, we shared how we wrote [*Data Science in Education Using
 R*](http://datascienceineducation.com/) as an open book
 ([Post 1](https://rviews.rstudio.com/2020/05/26/community-and-collaboration-writing-our-book-in-the-open/),
@@ -195,6 +207,10 @@ science, and OER. In this open mode, we invite others to revise or remix these
 ideas to advance other, new forms of authorship of books.
 
 \newpage
+
+# Discussion
+
+- Cultural change around publishing
 
 # References
 
